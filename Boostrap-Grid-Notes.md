@@ -10,7 +10,7 @@ Below are some basic level notes on how to create a grid using bootstrap
 
 ### Step 1: Create a Container 
 ```
-	<!-- This is where you are going to put inside to create your grid -->
+	<!-- Add all of your grid content inside of this container -->
 	<div class = "container">
 		
 	</div>
