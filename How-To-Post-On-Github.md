@@ -13,7 +13,7 @@
 ## STEP 3: open your terminal and navigate to the proper directory. Below is a table with some basic commands
 ### Since my code is inside another folder called "testing" inside of "needMyCode" I'm going to navigate into that directory
 
-<img src="assets/terminal.png" alt="drawing" width="1000" height="600"/>
+<img src="terminal.png" alt="drawing" width="1000" height="600"/>
 
 | Descriptions | Windows | Mac |
 | :---: | :---: | :---: |
