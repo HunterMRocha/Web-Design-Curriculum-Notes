@@ -2,11 +2,11 @@
 
 ## STEP 1: make sure you create a folder for all your code
 
-<img src="assets/createfolder.png" alt="drawing" width="500" height="300"/>
+<img src="createfolder.png" alt="drawing" width="500" height="300"/>
 
 ## STEP 2: Now that I've created the folder "needMyCode" with all my code inside of it, I'm going to go ahead and create a github repository.
 
-<img src="assets/githubrepo.png" alt="drawing" width="1000" height="600"/>
+<img src="githubrepo.png" alt="drawing" width="1000" height="600"/>
 
 ### your screen should look something like this. You don't need to click 'initialize this repo. with a README" because we will do that in the next step.
 
@@ -24,7 +24,7 @@
 
 ## Step 4: Copy and Past this command into your terminal/command prompt (Note: you must be inside the folder you want to link with your repository)
 
-<img src="assets/githubcommand.png" alt="drawing" width="1000" height="600"/>
+<img src="githubcommand.png" alt="drawing" width="1000" height="600"/>
 
 ```
 echo "# add description of your project here" >> README.md
