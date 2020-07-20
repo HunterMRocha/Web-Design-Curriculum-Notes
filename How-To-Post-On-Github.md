@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # How to use Github :) 
 
 ## STEP 1: make sure you create a folder for all your code
